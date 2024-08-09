@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+This sentence contains every letter of the alphabet.
+Each letter appears in this text, making it a great example for testing.
+Feel free to use this text for any purpose, including checking letter frequency.
+The lazy dog might not be very active, but it helps the fox complete its jump!
