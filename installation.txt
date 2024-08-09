@@ -1,0 +1,17 @@
+#EXERCISE 1
+javac LetterFrequency.java
+java LetterFrequency
+
+#EXERCISE 2
+javac FileAnalysis.java
+java FileAnalysis
+
+#EXERCISE 3
+PS C:\Users\SD233484\OneDrive - SD Worx\Desktop\Gurib-Data-Security-Labs> 
+javac exercise3\LetterHashAnalysis.java
+java exercise3.LetterHashAnalysis
+
+
+#EXERCISE 4
+
+#EXERCISE 5

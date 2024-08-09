@@ -52,3 +52,14 @@ javac -version
    java exercise3.LetterHashAnalysis
    ```
 
+   ### Exercise 4: CaesarCipher KEY/ASCII
+
+1. Compile the Java file:
+   ```bash
+   javac CaesarCipher.java
+   ```
+2. Run the compiled program:
+   ```bash
+   java CaesarCipher
+   ```
+
