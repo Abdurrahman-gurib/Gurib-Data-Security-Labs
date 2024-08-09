@@ -11,6 +11,7 @@ Ensure that Java is installed on your system. You can verify the installation by
 ```bash
 java -version
 javac -version
+```
 
 
 ## Running the Exercises
