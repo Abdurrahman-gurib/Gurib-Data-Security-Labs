@@ -13,11 +13,14 @@ public class LetterHashAnalysis {
 
     public static void main(String[] args) {
         // Define the path to your text file
-        String filePath = "C:\\Users\\SD233484\\OneDrive - SD Worx\\Desktop\\javawork\\exercise3\\samplee.txt"; // Update
-                                                                                                                // this
-                                                                                                                // path
-                                                                                                                // as
-                                                                                                                // needed
+        String filePath = "C:\\Users\\SD233484\\OneDrive - SD Worx\\Desktop\\Gurib-Data-Security-Labs\\exercise3\\samplee.txt"; // Update
+                                                                                                                                // this
+                                                                                                                                // path
+                                                                                                                                // as
+                                                                                                                                // needed
+
+        // Debug: Print the file path to verify it's correct
+        System.out.println("File path: " + filePath);
 
         // Initialize the map to count letters
         Map<Character, Integer> letterCount = new HashMap<>();
