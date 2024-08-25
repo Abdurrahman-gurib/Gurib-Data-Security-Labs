@@ -1,0 +1,16 @@
+Part 1: RSA Encryption
+Enter the first prime number (p): 17
+Enter the second prime number (q): 11
+n = 187
+phi_n = 160
+Enter a value for e such that 1 < e < phi_n and gcd(e, phi_n) = 1: 7
+d = 23
+Enter the string to encrypt: HI
+Encrypted message: 30 61
+Part 2: RSA Decryption
+Enter the value of d (decryption key): 23
+Enter the value of n: 187
+Decrypted message: HI
+
+Φn =(p-1)*(q-1)
+e*d mod Φn = 1
