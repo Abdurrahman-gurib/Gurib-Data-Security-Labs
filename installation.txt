@@ -14,4 +14,6 @@ java exercise3.LetterHashAnalysis
 
 #EXERCISE 4
 
-#EXERCISE 5
+#EXERCISE 6
+javac RSAEncryption.java
+java RSAEncryption
